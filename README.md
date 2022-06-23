@@ -1,6 +1,16 @@
-# Vue 3 + Vite
+# vuejs-todo-list
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Here is deployed version:
+### [Live Site](https://simple-vue-js-todo-list.netlify.app/)
+
+## Introduction
+
+You can create your own todo list, edit it and delete. Also you can check it when it's done. All items are saved in LocalStorage.
+
+[vuejs-todo-list]
+
+[![g.png](https://i.postimg.cc/7Lz1f0cw/g.png)](https://postimg.cc/XZVBPG4z)
+
 
 ## Recommended IDE Setup
 
